@@ -1,0 +1,17 @@
+{
+  "name": "koafastfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "db": "^1.0.6",
+    "keygrip": "^1.0.2",
+    "koa": "^2.5.0"
+  }
+}
