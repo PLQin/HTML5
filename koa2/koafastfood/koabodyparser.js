@@ -21,7 +21,7 @@ async function receiver(ctx) {
     } else if (ctx.url === '/' && ctx.method === 'POST') {
         let postData = ctx.request.body;
         let request = ctx.request
-        ctx.body = {postData, ctx,request};
+        ctx.body = {postData,request};
     } else {
         ctx.body = '<h1>404!</h1>';
     }
