@@ -29,9 +29,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding>
-                <marker date="1521602248103" expanded="true" signature="116:148" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,16 +37,9 @@
       <file leaf-file-name="company.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongoShell/company.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="608">
               <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <marker date="1521602761489" expanded="true" signature="16:215" ph="{&quot;name&quot;: 'JSPang'...}" />
-                <marker date="1521602761489" expanded="true" signature="89:184" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-                <marker date="1521602761489" expanded="true" signature="233:432" ph="{&quot;name&quot;: 'ShengLei'...}" />
-                <marker date="1521602761489" expanded="true" signature="312:401" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-                <marker date="1521602761489" expanded="true" signature="450:655" ph="{&quot;name&quot;: 'MinJie'...}" />
-                <marker date="1521602761489" expanded="true" signature="525:624" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,30 +47,9 @@
       <file leaf-file-name="company2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongoShell/company2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="2096">
               <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-              <folding>
-                <marker date="1521619263209" expanded="true" signature="16:233" ph="{&quot;name&quot;: 'JSPang'...}" />
-                <marker date="1521619263209" expanded="true" signature="89:184" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-                <marker date="1521619263209" expanded="true" signature="250:467" ph="{&quot;name&quot;: 'ShengLei'...}" />
-                <marker date="1521619263209" expanded="true" signature="329:418" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-                <marker date="1521619263209" expanded="true" signature="484:694" ph="{&quot;name&quot;: 'MinJie'...}" />
-                <marker date="1521619263209" expanded="true" signature="557:645" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-                <marker date="1521619263209" expanded="true" signature="711:923" ph="{&quot;name&quot;: 'XiaoWang'...}" />
-                <marker date="1521619263209" expanded="true" signature="786:874" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-                <marker date="1521619263209" expanded="true" signature="940:1134" ph="{&quot;name&quot;: 'LiangPeng'...}" />
-                <marker date="1521619263209" expanded="true" signature="1016:1085" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-                <marker date="1521619263209" expanded="true" signature="1151:1342" ph="{&quot;name&quot;: 'HouFei'...}" />
-                <marker date="1521619263209" expanded="true" signature="1224:1293" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-                <marker date="1521619263209" expanded="true" signature="1359:1544" ph="{&quot;name&quot;: 'LiuYan'...}" />
-                <marker date="1521619263209" expanded="true" signature="1432:1495" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-                <marker date="1521619263209" expanded="true" signature="1561:1746" ph="{&quot;name&quot;: 'DingLu'...}" />
-                <marker date="1521619263209" expanded="true" signature="1634:1697" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-                <marker date="1521619263209" expanded="true" signature="1763:1981" ph="{&quot;name&quot;: 'JiaPeng'...}" />
-                <marker date="1521619263209" expanded="true" signature="1837:1932" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-                <marker date="1521619263209" expanded="true" signature="1999:2215" ph="{&quot;name&quot;: 'LiJia'...}" />
-                <marker date="1521619263209" expanded="true" signature="2071:2166" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,7 +57,7 @@
       <file leaf-file-name="company3.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongoShell/company3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="2192">
               <caret line="137" column="132" lean-forward="false" selection-start-line="137" selection-start-column="132" selection-end-line="137" selection-end-column="132" />
               <folding />
             </state>
@@ -99,9 +69,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
               <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <marker date="1521626007986" expanded="true" signature="87:119" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,8 +77,8 @@
       <file leaf-file-name="mill.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mongoShell/mill.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="206">
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -119,7 +87,7 @@
       <file leaf-file-name="each.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongoShell/each.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="112">
               <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding />
             </state>
@@ -129,7 +97,7 @@
       <file leaf-file-name="each2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mongoShell/each2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="112">
               <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding />
             </state>
@@ -141,10 +109,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-              <folding>
-                <marker date="1521603080540" expanded="true" signature="45:250" ph="{&quot;name&quot;: 'MinJie'...}" />
-                <marker date="1521603080540" expanded="true" signature="120:219" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -180,10 +145,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="722" />
-    <option name="width" value="718" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="57" />
+    <option name="y" value="23" />
+    <option name="width" value="1107" />
+    <option name="height" value="693" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -200,7 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,7 +183,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,24 +217,26 @@
       <updated>1521545003977</updated>
       <workItem from="1521545006497" duration="3772000" />
       <workItem from="1521599795099" duration="20754000" />
+      <workItem from="1521684837163" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24526000" />
+    <option name="totallyTimeSpent" value="24539000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="678" height="900" extended-state="6" />
+    <frame x="57" y="23" width="1107" height="693" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28310502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18139963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5320435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09531773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -291,6 +259,86 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mongoShell/goTask.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/batchInsert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/company.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/company2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2096">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/company3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2192">
+          <caret line="137" column="132" lean-forward="false" selection-start-line="137" selection-start-column="132" selection-end-line="137" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/hasNext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/each.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/each2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/changeSex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/mill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoShell/goTask.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -309,9 +357,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <marker date="1521602248103" expanded="true" signature="116:148" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -319,54 +365,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <marker date="1521603080540" expanded="true" signature="45:250" ph="{&quot;name&quot;: 'MinJie'...}" />
-            <marker date="1521603080540" expanded="true" signature="120:219" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoShell/company.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="608">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <marker date="1521602761489" expanded="true" signature="16:215" ph="{&quot;name&quot;: 'JSPang'...}" />
-            <marker date="1521602761489" expanded="true" signature="89:184" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-            <marker date="1521602761489" expanded="true" signature="233:432" ph="{&quot;name&quot;: 'ShengLei'...}" />
-            <marker date="1521602761489" expanded="true" signature="312:401" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-            <marker date="1521602761489" expanded="true" signature="450:655" ph="{&quot;name&quot;: 'MinJie'...}" />
-            <marker date="1521602761489" expanded="true" signature="525:624" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoShell/company2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="2096">
           <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-          <folding>
-            <marker date="1521619263209" expanded="true" signature="16:233" ph="{&quot;name&quot;: 'JSPang'...}" />
-            <marker date="1521619263209" expanded="true" signature="89:184" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-            <marker date="1521619263209" expanded="true" signature="250:467" ph="{&quot;name&quot;: 'ShengLei'...}" />
-            <marker date="1521619263209" expanded="true" signature="329:418" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-            <marker date="1521619263209" expanded="true" signature="484:694" ph="{&quot;name&quot;: 'MinJie'...}" />
-            <marker date="1521619263209" expanded="true" signature="557:645" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-            <marker date="1521619263209" expanded="true" signature="711:923" ph="{&quot;name&quot;: 'XiaoWang'...}" />
-            <marker date="1521619263209" expanded="true" signature="786:874" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-            <marker date="1521619263209" expanded="true" signature="940:1134" ph="{&quot;name&quot;: 'LiangPeng'...}" />
-            <marker date="1521619263209" expanded="true" signature="1016:1085" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-            <marker date="1521619263209" expanded="true" signature="1151:1342" ph="{&quot;name&quot;: 'HouFei'...}" />
-            <marker date="1521619263209" expanded="true" signature="1224:1293" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-            <marker date="1521619263209" expanded="true" signature="1359:1544" ph="{&quot;name&quot;: 'LiuYan'...}" />
-            <marker date="1521619263209" expanded="true" signature="1432:1495" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-            <marker date="1521619263209" expanded="true" signature="1561:1746" ph="{&quot;name&quot;: 'DingLu'...}" />
-            <marker date="1521619263209" expanded="true" signature="1634:1697" ph="{&quot;skillOne&quot;: 'PhotoShop'...}" />
-            <marker date="1521619263209" expanded="true" signature="1763:1981" ph="{&quot;name&quot;: 'JiaPeng'...}" />
-            <marker date="1521619263209" expanded="true" signature="1837:1932" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-            <marker date="1521619263209" expanded="true" signature="1999:2215" ph="{&quot;name&quot;: 'LiJia'...}" />
-            <marker date="1521619263209" expanded="true" signature="2071:2166" ph="{&quot;skillOne&quot;: 'HTML+CSS'...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -374,15 +389,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <marker date="1521626007986" expanded="true" signature="87:119" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoShell/each.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="112">
           <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
@@ -390,7 +403,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoShell/each2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="112">
           <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
         </state>
@@ -398,7 +411,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoShell/company3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="2192">
           <caret line="137" column="132" lean-forward="false" selection-start-line="137" selection-start-column="132" selection-end-line="137" selection-end-column="132" />
           <folding />
         </state>
@@ -406,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoShell/mill.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="206">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding />
         </state>
       </provider>

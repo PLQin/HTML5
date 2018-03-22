@@ -602,8 +602,13 @@ mongorestore --host 127.0.0.1 --port 27017 D:/databack/
 ```
 
 
+## 杀死 mongod
 
+- 开机有个 python 进程，拥有 root 权限，想把他关闭，再重新启动
+用命令行 ps -ef | grep python 获取到 id 后，接着用｀kill id`,发现居然杀不死，我打开任务管理器，找到这个进程，居然也杀不死 是什么原因呢？
 
+- 以root权限启动的，首先你得用root权限来杀：sudo kill id
+如果还杀不死，用sudo kill -9 id
 
 
 
