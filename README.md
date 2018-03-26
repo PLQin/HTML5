@@ -5,7 +5,5 @@
 
 
 - ES6, Koa2, MongoDB
-
-
 - Weex
-- Node, JavaScript, ES5, ES6, C++, JAVA
+- Node, JavaScript, ES5, ES6, C++, JAVA, C
