@@ -1,3 +1,3 @@
 <template>
-  <text class="message">123</text>
+  <text class="message">4567</text>
 </template>

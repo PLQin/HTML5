@@ -48,7 +48,7 @@
     [self setupRightBarItem];
     self.view.backgroundColor = [UIColor whiteColor];
     
-    _weexHeight = self.view.frame.size.height - 64;
+    _weexHeight = self.view.frame.size.height - 44.0 - [UIApplication sharedApplication].statusBarFrame.size.height;
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(notificationRefreshInstance:) name:@"RefreshInstance" object:nil];
     
 #if DEBUG

@@ -58,8 +58,8 @@
 
 + (void)loadCustomContainWithScannerWithUrl:(NSURL *)url
 {
-    UIViewController *demo = [[WXDemoViewController alloc] init];
-    ((WXDemoViewController *)demo).url = url;
+    WXDemoViewController *demo = [[WXDemoViewController alloc] init];
+    demo.url = url;
     [[UIApplication sharedApplication] delegate].window.rootViewController = [[WXRootViewController alloc] initWithRootViewController:demo];
 }
 

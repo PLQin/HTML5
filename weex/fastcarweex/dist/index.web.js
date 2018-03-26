@@ -21882,7 +21882,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     attrs: {
       "weex-type": "text"
     }
-  }, [_vm._v("123")])
+  }, [_vm._v("4567")])
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 if (false) {
