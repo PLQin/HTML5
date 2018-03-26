@@ -1,3 +1,11 @@
+- iOS
+
+- Vue
+	- HTML, CSS, JS, Webpack 
+
+
 - ES6, Koa2, MongoDB
+
+
 - Weex
-- JavaScript, ES5, Node, C++, JAVA
+- Node, JavaScript, ES5, ES6, C++, JAVA
