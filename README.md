@@ -1,14 +1,20 @@
+## [GitBook](https://www.gitbook.com/) 打开此文档
+
 - 了解，熟悉，掌握，精通
 
 - iOS
 
 - Vue
 	- HTML, CSS, JS, Webpack 
+	- Nuxtjs
 
 - ES6, Koa2, MongoDB
-- Weex
 
+- Weex
 - 小程序
-- Nuxt.js
-- JavaScript, Node, ES5, ES6, C++, JAVA, C
+
+- JavaScript, ES5, ES6, Nodejs
+- C++, JAVA, C
+
+
 
