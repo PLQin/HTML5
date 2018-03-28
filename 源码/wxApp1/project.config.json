@@ -10,7 +10,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.94",
-	"appid": "touristappid",
+	"appid": "wxa4f61ed9cb66fe22",
+  "appSecret": "6d45b89ca1b74e549be676cf3188db24",
 	"projectname": "wxApp1",
 	"condition": {
 		"search": {
