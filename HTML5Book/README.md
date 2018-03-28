@@ -5,7 +5,7 @@
 - iOS
 
 - Vue
-	- HTML, CSS, JS, Webpack 
+	- HTML, CSS, JS, Webpack
 	- Nuxtjs
 
 - ES6, Koa2, MongoDB
