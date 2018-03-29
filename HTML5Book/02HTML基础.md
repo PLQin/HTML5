@@ -97,7 +97,7 @@
 ## HTML表格
 
 <div>
-	<table border="4"cellspacing="12" cellpadding="10" align="center" bgcolor="yellow">
+	<table border="4" cellspacing="12" cellpadding="10" align="center" bgcolor="yellow">
 	<caption>我是表格标题</caption>
 	 <tr align="center">
 	 	<td>张三</td>
