@@ -83,7 +83,7 @@
 
 	<!-- 网页编码 -->
 	<meta http-equiv="Content-Type"  content="text/html" charset="UTF-8">
-	
+
 	<!-- 网页重定向 -->
 	<meta http-equiv="refresh"  content="5; http://www.itcast.cn">
 
@@ -166,7 +166,7 @@
 </div>
 
 ### 细线表格
-	
+
 - 设置 cellspacing, 把 tr 背景色 设置为白色
 
 <div>
@@ -349,7 +349,7 @@
 	<input type="number" step="5">
 	滑块控件
   <input type="range">
-  
+
 	<input type="submit">
 
 	</form>

@@ -66,7 +66,7 @@ div, h3 {
 			color: green;
 		}
 	</style>
-	
+
 	<body>
 	<div class="div1">
 		<ul class="box">
@@ -77,7 +77,7 @@ div, h3 {
 	<div class="div1">
 		<p>14期霸气</p>
 	</div>
-	
+
 	<div class="box">
 		<p class="p1"></p>
 	</div>
@@ -117,7 +117,7 @@ div, h3 {
 ![](./images/Snip20180329_28.png)
 
 ### CSS 伪类
- 
+
 - :link
 - 伪类将应用于未被访问过的链接。IE6不兼容，解决此问题，直接使用a标签。
 
@@ -172,13 +172,13 @@ background-color:设置背景颜色
 background-image:设置背景图片
 background-repeat:  设置背景平铺    one-repeat   repeat-x   repeat-y
 background-postion:  设置背景位置   left,right,center,top,bottom
-background-attachment:   设置背景是否固定    
+background-attachment:   设置背景是否固定
 背景连写 ：没有先后顺序，都是可选的
 text-indent: 缩进
 ```
 
 <style>
-li{ 
+li{
 		/*清除列表项符号*/
 		background: url("./images/li.gif") no-repeat left center;
 		text-indent:20px;
@@ -342,7 +342,7 @@ li{
 - 1, main.height = sidebar.height
 - 2, header footer .style: clear: left/both/right 清除
 	- 左侧和右侧均不允许出现浮动元素：
-- 3, main.overflow.hidden = true 
+- 3, main.overflow.hidden = true
 - 4, main.class 增加 clearfix 类
 
 ![](./images/Snip20180329_43.png)
@@ -379,7 +379,7 @@ li{
 		background: pink;
 	}
 </style>
-	
+
 <div>
 	<a href="#div01">div1</a>
 	<a href="#div02">div2</a>
@@ -419,7 +419,7 @@ li{
       	 float:left;
         line-height: 100px;
       }
-      
+
 </style>
 
 <div style="height: 100px">
