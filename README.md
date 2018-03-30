@@ -5,7 +5,7 @@
 - iOS
 
 - Vue
-	- HTML, CSS, JS, Webpack 
+	- HTML, CSS, JS, Webpack
 	- Nuxtjs
 
 - ES6, Koa2, MongoDB
@@ -14,7 +14,11 @@
 - 小程序
 
 - JavaScript, ES5, ES6, Nodejs
+
 - C++, JAVA, C
+
+
+- HTML
 
 
 

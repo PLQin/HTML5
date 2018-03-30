@@ -1,7 +1,9 @@
 ## 基础选择器
+
 - 类选择器, 标签选择器, ID 选择器, 复合选择器
 
 - 多类选择器
+
 
 
 <style>
@@ -115,23 +117,22 @@ div, h3 {
 ![](./images/Snip20180329_28.png)
 
 ### CSS 伪类
-
  
 - :link
-	- 伪类将应用于未被访问过的链接。IE6不兼容，解决此问题，直接使用a标签。
+- 伪类将应用于未被访问过的链接。IE6不兼容，解决此问题，直接使用a标签。
 
 
 - :visited
-	- 伪类将应用于已经被访问过的链接
+- 伪类将应用于已经被访问过的链接
 
 - :hover
-	- 伪类将应用于有鼠标指针悬停于其上的元素。在IE6只能应用于a连接，IE7+所有元素都兼容。
+- 伪类将应用于有鼠标指针悬停于其上的元素。在IE6只能应用于a连接，IE7+所有元素都兼容。
 
 - :active
-	- 伪类将应用于被激活的元素，如被点击的链接、被按下的按钮等。
+- 伪类将应用于被激活的元素，如被点击的链接、被按下的按钮等。
 
 - :focus
-	- 伪类将应用于拥有键盘输入焦点的元素。
+- 伪类将应用于拥有键盘输入焦点的元素。
 
 - love hate; lv ht
 
@@ -179,7 +180,6 @@ text-indent: 缩进
 <style>
 li{ 
 		/*清除列表项符号*/
-		list-style: none;
 		background: url("./images/li.gif") no-repeat left center;
 		text-indent:20px;
 	}
@@ -299,7 +299,7 @@ li{
 			padding: 0;
 		}
 		ul,li{
-			list-style: none;
+
 		}
 		.nav{
 			width: 800px;
@@ -339,7 +339,7 @@ li{
 
 ### 清除浮动
 
-- 1, content.height = sidebar.height
+- 1, main.height = sidebar.height
 - 2, header footer .style: clear: left/both/right 清除
 	- 左侧和右侧均不允许出现浮动元素：
 - 3, main.overflow.hidden = true 
@@ -433,5 +433,4 @@ li{
 ### 属性选择器
 
 ![](./images/Snip20180329_54.png)
-
 

@@ -154,7 +154,7 @@
 			<td colspan="3"></td>
 		</tr>
 		<tr>
-			<td valign="middle"> 张三</td>
+			<td valign="middle">张三</td>
 			<td></td>
 			<td rowspan="2"></td>
 		</tr>
@@ -170,7 +170,7 @@
 - 设置 cellspacing, 把 tr 背景色 设置为白色
 
 <div>
-<table width="400" height="200" bgcolor="green" cellspacing="1" >
+<table width="400" height="200" bgcolor="green" cellspacing="2">
 		<tr bgcolor="white">
 			<td></td>
 			<td></td>
@@ -277,9 +277,9 @@
 			<p>
 				   <!-- 单选框 -->
 	   <input type="radio" name="gender" id="mal" checked="checked"><label for="mal">男</label>
-
 	   <input type="radio" name="gender" id="femal">
 	   <label for="femal">女<label>
+
 			</p>
 		<input type="image" src="./images/Snip20180328_13.png" width="100" height="50"></input>	<div>
 多选框<br>
